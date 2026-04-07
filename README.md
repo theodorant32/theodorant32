@@ -10,7 +10,7 @@ Mechatronics student @ Simon Fraser University.
 
 Building AI tools, quant systems, and anything that learns.
 
-Open to collaborations and opportunities — feel free to reach out :)
+Open to collaborations and opportunities - feel free to reach out :)
 
 <br/>
 
