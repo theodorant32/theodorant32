@@ -14,6 +14,6 @@ Open to collaborations and opportunities — feel free to reach out :)
 
 <br/>
 
-<div><img align="left" src="./assets/images/mail.svg" width="40px" /> <pre>tta107@sfu.ca</pre></div>
+<div><a href="mailto:tta107@sfu.ca" style="text-decoration:none;color:inherit;"><img align="left" src="./assets/images/mail.svg" width="40px" /> <pre>tta107@sfu.ca</pre></a></div>
 
-<div><img align="left" src="./assets/images/linkedin.svg" width="40px" /> <pre><a href="https://www.linkedin.com/in/theodore-trinh-a82847390" style="text-decoration:none;color:inherit;">theodore-trinh</a></pre></div>
+<div><a href="https://www.linkedin.com/in/theodore-trinh-a82847390" style="text-decoration:none;color:inherit;"><img align="left" src="./assets/images/linkedin.svg" width="40px" /> <pre>theodore-trinh</pre></a></div>
